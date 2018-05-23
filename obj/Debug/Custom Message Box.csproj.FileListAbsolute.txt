@@ -1,8 +1,0 @@
-F:\Dev\windows - Dev\c#\MessageBoxExample  3 Edition C#\MessageBoxExample[MyEdition]Without Bug\MessageBoxExample\bin\Debug\Custom Message Box.exe.config
-F:\Dev\windows - Dev\c#\MessageBoxExample  3 Edition C#\MessageBoxExample[MyEdition]Without Bug\MessageBoxExample\bin\Debug\Custom Message Box.exe
-F:\Dev\windows - Dev\c#\MessageBoxExample  3 Edition C#\MessageBoxExample[MyEdition]Without Bug\MessageBoxExample\obj\Debug\Custom Message Box.csprojResolveAssemblyReference.cache
-F:\Dev\windows - Dev\c#\MessageBoxExample  3 Edition C#\MessageBoxExample[MyEdition]Without Bug\MessageBoxExample\obj\Debug\MB.Form1.resources
-F:\Dev\windows - Dev\c#\MessageBoxExample  3 Edition C#\MessageBoxExample[MyEdition]Without Bug\MessageBoxExample\obj\Debug\MB.MyCMB.resources
-F:\Dev\windows - Dev\c#\MessageBoxExample  3 Edition C#\MessageBoxExample[MyEdition]Without Bug\MessageBoxExample\obj\Debug\MB.Properties.Resources.resources
-F:\Dev\windows - Dev\c#\MessageBoxExample  3 Edition C#\MessageBoxExample[MyEdition]Without Bug\MessageBoxExample\obj\Debug\Custom Message Box.csproj.GenerateResource.Cache
-F:\Dev\windows - Dev\c#\MessageBoxExample  3 Edition C#\MessageBoxExample[MyEdition]Without Bug\MessageBoxExample\obj\Debug\Custom Message Box.exe
